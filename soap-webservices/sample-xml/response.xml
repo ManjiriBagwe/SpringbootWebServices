@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse
+	xmlns="http://sunman.com/courses"
+	xsi:schemaLocation="http://sunman.com/courses course-details.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<CourseDetails>
+		<id>12</id>
+		<name>SOAP Practice</name>
+		<description>Learning SOAP</description>
+	</CourseDetails>
+</GetCourseDetailsResponse> 
